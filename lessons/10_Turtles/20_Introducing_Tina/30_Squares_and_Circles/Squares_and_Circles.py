@@ -51,7 +51,7 @@ tina.right(90)
 ##
 
 tina.penup()
-tina.goto(0, -75)
+tina.goto(2, -75)
 tina.pendown()
 
 tina.color('red')                       # Set the color of tina to red
