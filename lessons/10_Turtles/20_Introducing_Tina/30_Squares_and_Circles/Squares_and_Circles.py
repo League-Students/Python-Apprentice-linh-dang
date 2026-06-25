@@ -44,7 +44,7 @@ tina.right(90)
 
 tina.pencolor('purple')                 # Set the pen color to purple
 tina.forward(200)
-tina.right(90)
+tina.right(80)
 
 ##
 ## Draw a Circle
