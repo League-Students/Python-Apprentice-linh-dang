@@ -44,7 +44,7 @@ tina.right(90)
 
 tina.pencolor('purple')                 # Set the pen color to purple
 tina.forward(200)
-tina.right(80)
+tina.right(90)
 
 ##
 ## Draw a Circle
@@ -56,7 +56,7 @@ tina.pendown()
 
 tina.color('black')                       # Set the color of tina to red
 tina.begin_fill()
-tina.circle(75)
+tina.circle(74)
 tina.end_fill()
 
 ##
